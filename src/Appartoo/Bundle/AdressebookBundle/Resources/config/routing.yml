@@ -1,0 +1,3 @@
+appartoo_adressebook_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: AppartooAdressebookBundle:Default:index }
